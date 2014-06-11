@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RecOnline0" value="name:COUNT(*);datatype:int" />
+	<infoitem key="UD_RecOnline1" value="name:COUNT(*);datatype:int" />
+	<infoitem key="UD_RecOnline2" value="name:COUNT(*);datatype:int" />
+	<infoitem key="UD_RecOnline3" value="name:COUNT(*);datatype:int" />
+	<infoitem key="UD_RecOnline4" value="name:COUNT(*);datatype:int" />
+</info>

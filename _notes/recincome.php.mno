@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RecIncome0" value="name:COUNT(*);datatype:int" />
+	<infoitem key="UD_RecIncome1" value="name:COUNT(*);datatype:int" />
+	<infoitem key="UD_RecIncome2" value="name:COUNT(*);datatype:int" />
+	<infoitem key="UD_RecIncome3" value="name:COUNT(*);datatype:int" />
+	<infoitem key="UD_RecIncome4" value="name:COUNT(*);datatype:int" />
+	<infoitem key="UD_RecIncome5" value="name:COUNT(*);datatype:int" />
+</info>

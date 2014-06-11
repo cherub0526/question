@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RecAge0" value="name:COUNT(*);datatype:int" />
+	<infoitem key="UD_RecAge1" value="name:COUNT(*);datatype:int" />
+	<infoitem key="UD_RecAge2" value="name:COUNT(*);datatype:int" />
+	<infoitem key="UD_RecAge3" value="name:COUNT(*);datatype:int" />
+	<infoitem key="UD_RecAge4" value="name:COUNT(*);datatype:int" />
+	<infoitem key="UD_RecAge5" value="name:COUNT(*);datatype:int" />
+</info>

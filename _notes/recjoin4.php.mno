@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RecJoin4_0" value="name:COUNT(*);datatype:int" />
+	<infoitem key="UD_RecJoin4_1" value="name:COUNT(*);datatype:int" />
+	<infoitem key="UD_RecJoin4_2" value="name:COUNT(*);datatype:int" />
+	<infoitem key="UD_RecJoin4_3" value="name:COUNT(*);datatype:int" />
+	<infoitem key="UD_RecJoin4_4" value="name:COUNT(*);datatype:int" />
+	<infoitem key="UD_RecJoin4_5" value="name:COUNT(*);datatype:int" />
+</info>

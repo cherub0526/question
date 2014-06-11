@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RecPo0" value="name:COUNT(*);datatype:int" />
+	<infoitem key="UD_RecPo1" value="name:COUNT(*);datatype:int" />
+	<infoitem key="UD_RecPo2" value="name:COUNT(*);datatype:int" />
+</info>

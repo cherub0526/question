@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RecEdu0" value="name:COUNT(*);datatype:int" />
+	<infoitem key="UD_RecEdu1" value="name:COUNT(*);datatype:int" />
+	<infoitem key="UD_RecEdu2" value="name:COUNT(*);datatype:int" />
+	<infoitem key="UD_RecEdu3" value="name:COUNT(*);datatype:int" />
+	<infoitem key="UD_RecEdu4" value="name:COUNT(*);datatype:int" />
+</info>
